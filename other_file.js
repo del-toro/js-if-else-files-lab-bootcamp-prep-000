@@ -1,3 +1,3 @@
-var index = require("./index_js");
+var index = require("./index.js");
 
 console.log(name);
